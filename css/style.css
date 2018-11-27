@@ -47,13 +47,13 @@ img:hover {
 }
 
 .column {
-  display:block;
-  width: 33%;
+  display:inline;
+  width: 31%;
 }
 
 .small {
   width: 27%;
-  height: 33%;
+  height: 31%;
 }
 
 .med {
