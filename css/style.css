@@ -53,16 +53,19 @@ img:hover {
 
 .small {
   width: 100%;
+  float: left;
   
 }
 
 .med {
   width: 200%;
+  float: left;
   
 }
 
 .large {
   width: 300%;
+  float:left;
   
 }
 
