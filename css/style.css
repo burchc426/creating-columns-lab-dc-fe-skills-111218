@@ -47,23 +47,23 @@ img:hover {
 }
 
 .column {
-  display:block;
-  width: 31%;
+  display:inline;
+  width: 33%;
 }
 
 .small {
-  width: 26%;
-  height: 31%;
+  width: 100%;
+  
 }
 
 .med {
-  width: 54%;
-  height: 48%;
+  width: 200%;
+  
 }
 
 .large {
-  width: 98%;
-  height: 100%;
+  width: 300%;
+  
 }
 
 /* create a column class! make sure all of the divs within 'container's have a class of 'column' */
