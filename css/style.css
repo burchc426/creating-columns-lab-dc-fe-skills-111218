@@ -63,7 +63,7 @@ img:hover {
 
 .large {
   width: 98%;
-  height: 180px;
+  height: 100%;
 }
 
 /* create a column class! make sure all of the divs within 'container's have a class of 'column' */
